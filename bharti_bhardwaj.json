@@ -1,0 +1,35 @@
+{
+    "name": "Bharti Bhardwaj",
+    "title": "Web Developer",
+    "email": "bhartibhardwaj@gmail.com",
+    "phone": "0152 1053 8040",
+    "website": "",
+    "city": [
+        "Wiesbaden",
+        "Frankfurt",
+        "Eschborn"
+    ],
+    "keywords": [
+        "javascript",
+        "java",
+        "mysql",
+        "frontend"
+    ],
+    "profiles": {
+        "gravatar": "https://gravatar.com/bhartibhardwaj1207",
+        "xing": "http://xing.com/profile/Bharti_Bhardwaj",
+        "twitter": "",
+        "google+": "",
+        "facebook": "",
+        "linkedin": "https://www.linkedin.com/in/bhartibhardwaj1207",
+        "github": "",
+        "stackoverflow": "",
+        "aboutme": "",
+        "tumblr": "",
+        "500px": "",
+        "behance": "",
+        "flickr": "",
+        "slideshare": "",
+        "pinboard": ""
+    }
+}
